@@ -17,7 +17,7 @@ public class ProductController {
 		
 		    return Arrays.asList(new Product(1001,"iPod","black color"),
 		     new Product(1002,"laptop","black color"),
-		     new Product(1003,"bike","black color"));	   
+		     new Product(1004,"bike","black color"));	   
 	}
 
 }
